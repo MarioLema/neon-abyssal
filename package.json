@@ -7,7 +7,7 @@
     "engines": {
         "vscode": "^1.63.0"
     },
-    "icon": "./icon.png",
+    "icon": "icon.png",
     "author": {
         "name": "Mario Lema Garcia"
     },
