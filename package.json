@@ -2,9 +2,18 @@
     "name": "neon-abyssal",
     "displayName": "neon-abyssal",
     "description": "Dark theme with neon colors",
+    "publisher": "ubim",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
+    },
+    "icon": "./icon.png",
+    "author": {
+        "name": "Mario Lema Garcia"
+    },
+    "repository": {
+        "url": "https://github.com/MarioLema/neon-abyssal.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
